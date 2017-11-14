@@ -15,5 +15,7 @@ I use this site to look for unicode http://www.alanwood.net/unicode/miscellaneou
 
 ![alt text](https://raw.githubusercontent.com/maniat1k/birame/master/birame.png)
 
-##install
-just copy in <pre>~/.oh-my-zsh/custom</pre>
+## Install
+Folowing this steps: https://github.com/robbyrussell/oh-my-zsh/wiki/Customization#overriding-and-adding-themes
+
+Just copy in *~/.oh-my-zsh/custom*
